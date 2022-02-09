@@ -1452,7 +1452,8 @@ i.home-product-item__like-icon-fill {
 .footer__download-app-link {
     text-decoration: none;
     color: transparent;
-    display: block;
+    display: flex;
+    flex-direction: column;
 }
 
 .footer__bottom {
